@@ -15,8 +15,8 @@ Como pacientes, es hora de dejar de preguntar a ChatGPT y confiar en las respues
 
 | Repositorio | Descripción | Estado |
 |------------|-------------|--------|
-| [mediguk-backend](https://github.com/MediGuk/mediguk-backend) | API Gateway y microservicios (Spring Boot, Python, Go) | 🚧 En desarrollo |
-| [mediguk-frontend](https://github.com/MediGuk/mediguk-frontend) | Aplicación web para pacientes (Next.js) | 🚧 En desarrollo |
+| [mediguk-backend](https://github.com/MediGuk/mediguk_backend) | API Gateway y microservicios (Spring Boot, Python, Go) | 🚧 En desarrollo |
+| [mediguk-frontend](https://github.com/MediGuk/mediguk_frontend) | Aplicación web para pacientes (Next.js) | 🚧 En desarrollo |
 | [mediguk-docs](https://github.com/MediGuk/mediguk-docs) | Documentación y arquitectura | 📅 Próximamente |
 
 🔒 Nota: Los repositorios de procesamiento de medios (Go) y los núcleos de IA (Python) se mantienen privados por razones de propiedad intelectual.
